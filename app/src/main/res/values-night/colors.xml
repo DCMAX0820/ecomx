@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Colors -->
+    <color name="backgroundColor">#121212</color>
+    <color name="headingColor">#FFFFFF</color>
+    <color name="textHint">#BBBBBB</color>
+    <color name="textPrimary">#DDDDDD</color>
+    <color name="brandColor">#FF5722</color> <!-- optional brand tone -->
+    <color name="border">#FFFFFF</color>
+</resources>
